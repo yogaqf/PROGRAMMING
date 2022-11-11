@@ -25,7 +25,6 @@ Untuk Looping Data
 ```
 - Download Plugin
 - Turn On Plugin
-- 
 
 
 

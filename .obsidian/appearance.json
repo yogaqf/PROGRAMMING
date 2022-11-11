@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 14
+  "baseFontSize": 12,
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "textFontFamily": "Corbel",
+  "cssTheme": "Sanctum"
 }

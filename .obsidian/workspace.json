@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a4c8d056fce96506",
+        "id": "f8649a3163b7a7c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8aec47d33b804082",
+            "id": "dd6a020ad5259c65",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "PHP.md",
-                "staged": false
+                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md"
+              }
             }
           }
         ],
@@ -141,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8aec47d33b804082",
+  "active": "25cc4b33017e60ea",
   "lastOpenFiles": [
-    "PHP.md",
-    "Laravel.md",
-    "CSS.md",
+    "Javascript/Javascript Dasar/3. Lingkungan Pengembangan.md",
+    "Javascript/Javascript Dasar/2. Sejarah Javascript.md",
+    "Javascript/Javascript Dasar/1. Kenapa Belajar Javascript.md",
     "GIT.md",
+    "CSS.md",
+    "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
+    "PHP.md",
     "HTML.md",
-    "React.md",
-    "Tailwind.md",
-    "2022-11-11.md",
-    "Utilities/Plugin Obsidian.md",
+    "Laravel.md",
     "XAMPP.md"
   ]
 }

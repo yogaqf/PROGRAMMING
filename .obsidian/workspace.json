@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
+                "file": "Javascript/Javascript Dasar/1. Kenapa Belajar Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2b0ebda3379dcf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Javascript Dasar/1. Kenapa Belajar Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa1040d463b4e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fffds.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FrontEnd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
+                "file": "fffds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
+                "file": "fffds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md"
+                "file": "fffds.md"
               }
             }
           }
@@ -148,15 +173,15 @@
   },
   "active": "25cc4b33017e60ea",
   "lastOpenFiles": [
-    "Javascript/Javascript Dasar/3. Lingkungan Pengembangan.md",
-    "Javascript/Javascript Dasar/2. Sejarah Javascript.md",
     "Javascript/Javascript Dasar/1. Kenapa Belajar Javascript.md",
-    "GIT.md",
-    "CSS.md",
-    "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md",
-    "PHP.md",
-    "HTML.md",
-    "Laravel.md",
-    "XAMPP.md"
+    "Laravel/Laravel.md",
+    "Composer/Composer.md",
+    "NodeJS/Node JS.md",
+    "GIT/GIT.md",
+    "CSS/CSS.md",
+    "HTML/HTML.md",
+    "Javascript/Javascript Dasar/2. Sejarah Javascript.md",
+    "Javascript/Javascript Dasar/3. Lingkungan Pengembangan.md",
+    "Javascript/Javascript Dasar/4. Nilai & TIpe Data.md"
   ]
 }

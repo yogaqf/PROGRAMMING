@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiSketchup",
+      "SiAdobephotoshop",
+      "SiAdobepremierepro",
+      "SiAdobeaftereffects",
+      "SiVisualstudiocode"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Javascript": "SiJavascript",
+  "Obsidian": "SiObsidian",
+  "GIT": "SiGit",
+  "Javascript/Javascript Dasar": "IbFolder",
+  "CSS": "SiCss3",
+  "HTML": "SiHtml5",
+  "Laravel": "SiLaravel",
+  "NodeJS": "SiNodedotjs",
+  "React": "SiReact",
+  "PHP": "SiPhp",
+  "Tailwind": "SiTailwindcss",
+  "XAMPP": "SiXampp",
+  "Composer": "SiComposer",
+  "VSCode": "SiVisualstudiocode",
+  "After Effect": "SiAdobeaftereffects",
+  "Premiere Pro": "SiAdobepremierepro",
+  "Photoshop": "SiAdobephotoshop",
+  "Sketch Up": "SiSketchup"
+}

@@ -4,8 +4,10 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 80
   },
   "legacyEditor": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }

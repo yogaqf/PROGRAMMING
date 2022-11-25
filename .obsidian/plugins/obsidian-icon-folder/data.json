@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiSketchup",
-      "SiAdobephotoshop",
-      "SiAdobepremierepro",
-      "SiAdobeaftereffects",
-      "SiVisualstudiocode"
+      "FarFile",
+      "IbFolder",
+      "SiSourcegraph",
+      "FabReadme",
+      "FasMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,7 +23,6 @@
   "Javascript": "SiJavascript",
   "Obsidian": "SiObsidian",
   "GIT": "SiGit",
-  "Javascript/Javascript Dasar": "IbFolder",
   "CSS": "SiCss3",
   "HTML": "SiHtml5",
   "Laravel": "SiLaravel",
@@ -37,5 +36,18 @@
   "After Effect": "SiAdobeaftereffects",
   "Premiere Pro": "SiAdobepremierepro",
   "Photoshop": "SiAdobephotoshop",
-  "Sketch Up": "SiSketchup"
+  "Sketch Up": "SiSketchup",
+  "Adobe Illustrator": "SiAdobeillustrator",
+  "Docker": "SiDocker",
+  "Java": "FabJava",
+  "Python": "SiPython",
+  "Javascript/Javascript.md": "FabReadme",
+  "Source": "SiSourcegraph",
+  "MOC.md": "FasMap",
+  "Javascript/WPU - Javascript Dasar": "IbFolder",
+  "Javascript/WPU - Javascript Dasar/Javascript Dasar.md": "FabReadme",
+  "Laravel/WPU - Laravel 8": "IbFolder",
+  "PHP/WPU - PHP Dasar/PHP Dasar.md": "FabReadme",
+  "PHP/PHP.md": "FabReadme",
+  "Template": "FarFile"
 }

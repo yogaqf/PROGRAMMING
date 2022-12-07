@@ -1,8 +1,10 @@
 {
   "accentColor": "",
   "baseFontSize": 12,
-  "showViewHeader": true,
+  "showViewHeader": false,
   "theme": "obsidian",
   "textFontFamily": "Inter",
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "nativeMenus": false,
+  "translucency": false
 }

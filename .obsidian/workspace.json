@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f8649a3163b7a7c1",
+        "id": "b1595343d2e95dae",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d9bc034aa36a87",
+            "id": "8b24998548d4391a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind/Tailwind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73d44fbe4de2b05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind/Install Tailwind.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#FrontEnd",
+                "query": "tag:#BackEnd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tailwind/Install Tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tailwind/Install Tailwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tailwind/Install Tailwind.md"
+              }
             }
           },
           {
@@ -139,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,15 +169,15 @@
   },
   "active": "25cc4b33017e60ea",
   "lastOpenFiles": [
-    "Obsidian/Hotkeys Obsidian.md",
-    "PHP/WPU - PHP Dasar/1. Kenapa PHP.md",
-    "PHP/WPU - PHP Dasar/3. Persiapan Lingkungan Pengembangan.md",
-    "PHP/PZN - PHP Dasar/PHP PZN.md",
-    "PHP/WPU - PHP Dasar/PHP Dasar.md",
-    "Javascript/Javascript.md",
-    "Template/Template Note.md",
-    "PHP/PHP.md",
-    "PHP/PZN - PHP Dasar/Untitled.md",
-    "YOGA.md"
+    "Tailwind/Tailwind.md",
+    "React/React.md",
+    "Setting JSON.md",
+    "VS Code.md",
+    "HTML/HTML.md",
+    "MOC.md",
+    "Javascript/WPU - Javascript Dasar/6. Operator Pada Javascript.md",
+    "Javascript/WPU - Javascript Dasar/Javascript Dasar.md",
+    "Laravel/WPU - Laravel 8/Apa itu Laravel.md",
+    "Composer/Composer.md"
   ]
 }

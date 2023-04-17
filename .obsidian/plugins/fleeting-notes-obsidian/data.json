@@ -1,0 +1,18 @@
+{
+  "auto_generate_title": false,
+  "fleeting_notes_folder": "!FleetingNotesApp",
+  "attachments_folder": "",
+  "note_template": "---\n# Mandatory fields\nid: \"${id}\"\n# Optional fields\ntitle: \"${title}\"\ntags: ${tags}\nsource: \"${source}\"\nsource_title: \"${source_title}\"\nsource_description: \"${source_description}\"\nsource_image_url: \"${source_image_url}\"\ncreated_date: \"${created_date}\"\nmodified_date: \"${last_modified_date}\"\n---\n${content}",
+  "sync_on_startup": false,
+  "last_sync_time": "2023-04-17T04:19:32.591Z",
+  "sync_type": "realtime-two-way",
+  "sync_obsidian_links": false,
+  "sync_obsidian_links_title": "Links from Obsidian",
+  "notes_filter": "",
+  "email": "yoga.qf@gmail.com",
+  "password": "qazwsxedc",
+  "supabaseId": "0b778f22-c30d-4f76-baa7-c77494dee14b",
+  "encryption_key": "",
+  "sync_interval": 8004,
+  "date_format": "YYYY-MM-DD"
+}

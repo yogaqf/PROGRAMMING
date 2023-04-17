@@ -30,12 +30,9 @@
   "React": "SiReact",
   "PHP": "SiPhp",
   "Tailwind": "SiTailwindcss",
-  "XAMPP": "SiXampp",
   "Composer": "SiComposer",
   "VSCode": "SiVisualstudiocode",
   "After Effect": "SiAdobeaftereffects",
-  "Premiere Pro": "SiAdobepremierepro",
-  "Photoshop": "SiAdobephotoshop",
   "Sketch Up": "SiSketchup",
   "Adobe Illustrator": "SiAdobeillustrator",
   "Docker": "SiDocker",
@@ -49,5 +46,8 @@
   "Laravel/WPU - Laravel 8": "IbFolder",
   "PHP/WPU - PHP Dasar/PHP Dasar.md": "FabReadme",
   "PHP/PHP.md": "FabReadme",
-  "Template": "FarFile"
+  "Template": "FarFile",
+  "Upcoming/XAMPP": "SiXampp",
+  "Upcoming/Photoshop": "SiAdobephotoshop",
+  "Upcoming/Premiere Pro": "SiAdobepremierepro"
 }

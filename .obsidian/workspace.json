@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73d44fbe4de2b05a",
+            "id": "87626da5dd56444c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Hotkeys Obsidian.md",
-                "mode": "preview",
+                "file": "MOC.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -33,7 +33,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94ab32b410447f34",
+            "id": "2fb376a640ece303",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Hotkeys Obsidian.md",
+                "file": "MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Hotkeys Obsidian.md",
+                "file": "MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Hotkeys Obsidian.md"
+                "file": "MOC.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,17 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73d44fbe4de2b05a",
+  "active": "25cc4b33017e60ea",
   "lastOpenFiles": [
-    "PHP/WPU - PHP Dasar/1. Kenapa PHP.md",
+    "HTML/HTML.md",
+    "GIT/GIT.md",
     "Javascript/WPU - Javascript Dasar/Javascript Dasar.md",
-    "Composer/Composer.md",
-    "CSS/CSS.md",
-    "Javascript/WPU - Javascript Dasar/6. Operator Pada Javascript.md",
-    "Javascript/WPU - Javascript Dasar/5. Tipe Data Angka.md",
-    "Javascript/WPU - Javascript Dasar/1. Kenapa Belajar Javascript.md",
-    "Javascript/WPU - Javascript Dasar/3. Lingkungan Pengembangan.md",
     "Javascript/Javascript.md",
-    "Javascript/WPU - Javascript Dasar/4. Nilai & TIpe Data.md"
+    "Source/WPU.md",
+    "Template/Template Note.md",
+    "MOC.md",
+    "Upcoming",
+    "Composer/Composer.md",
+    "Javascript/WPU - Javascript Dasar/3. Lingkungan Pengembangan.md",
+    "Javascript/WPU - Javascript Dasar/2. Sejarah Javascript.md",
+    "Javascript/WPU - Javascript Dasar/6. Operator Pada Javascript.md",
+    "!FleetingNotesApp/Zettelkasten Methode.md",
+    "!FleetingNotesApp/Komputional Thinking.md",
+    "!FleetingNotesApp/Digital Zettelkasten.md",
+    "!FleetingNotesApp/Chrome Extension Error.md",
+    "PHP/WPU - PHP Dasar/PHP Dasar.md",
+    "!FleetingNotesApp/Chrome Extension Error (1).md",
+    "!FleetingNotesApp",
+    "FleetingNotesApp/what are backlinks.md",
+    "FleetingNotesApp/f6394b0a-144e-4f8a-8e9c-b53ed5c61e29.md",
+    "FleetingNotesApp/HELLO WORLD.md",
+    "FleetingNotesApp/YOGA.md",
+    "FleetingNotesApp/START HERE.md",
+    "FleetingNotesApp/how to sync notes with Obsidian.md",
+    "FleetingNotesApp/how to build connections in Fleeting Not.md",
+    "FleetingNotesApp/e2086e0a-1eb5-42b0-a21f-54d1ffb153d3.md",
+    "FleetingNotesApp/30e6fca5-460a-4ab0-a882-f28cdffd378a.md",
+    "FleetingNotesApp"
   ]
 }
